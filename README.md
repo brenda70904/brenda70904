@@ -7,8 +7,7 @@ Here's the link to my github profile[ to my github ](https://github.com/brenda70
 ![cat image](https://www.humanesociety.org/sites/default/files/styles/1441x612/public/2020-07/kitten-510651.jpg?h=f54c7448&itok=MnaVHwPi)
 
         🌱 I’m currently learning Javascript
-        📫 How to reach me: brendaj0214@gmail.com
-        😄 Pronouns: She/Her
+       
         
 
 <!--
@@ -21,6 +20,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-
+        📫 How to reach me: brendaj0214@gmail.com
+        😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
 -->
