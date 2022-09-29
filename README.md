@@ -4,9 +4,7 @@
 
 Here's the link to my github profile[ to my github ](https://github.com/brenda70904/brenda70904/blob/main/README.md)
 
-![cat image](https://www.humanesociety.org/sites/default/files/styles/1441x612/public/2020-07/kitten-510651.jpg?h=f54c7448&itok=MnaVHwPi)
-
-        🌱 I’m currently learning Javascript
+🌱 I’m currently learning Javascript
        
         
 
