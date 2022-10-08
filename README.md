@@ -4,7 +4,9 @@
 
 Here's the link to my github profile[ to my github ](https://github.com/brenda70904/brenda70904/blob/main/README.md)
 
-🌱 I’m currently learning Javascript
+:woman_student: Student at Code Fellows
+:desktop_computer: learning Javascript, HTML and CSS.
+
        
         
 
