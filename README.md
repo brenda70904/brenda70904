@@ -10,7 +10,7 @@ Here's the link to my github profile[ to my github ](https://github.com/brenda70
        
         
 
-<!--
+
 **brenda70904/brenda70904** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -23,4 +23,4 @@ Here are some ideas to get you started:
         📫 How to reach me: brendaj0214@gmail.com
         😄 Pronouns: She/Her
 - ⚡ Fun fact: ...
--->
+
