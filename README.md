@@ -17,9 +17,9 @@
 
 </p>
 
-<img src="https://visitor-badge.glitch.me/badge?page_id=brenda70904" width="100px" alt="visitor badge"/>
+<!--<img src="https://visitor-badge.glitch.me/badge?page_id=brenda70904" width="100px" alt="visitor badge"/>
 
-<!-- ### Hi there 👋
+ ### Hi there 👋
 
 # I'm Brenda ! nice to meet you. 
 
